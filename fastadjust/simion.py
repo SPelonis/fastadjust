@@ -11,7 +11,7 @@ import numpy as np
 from .fastadjust import FastAdjust
 
 # checks
-PATH = "C:\Program Files\SIMION-8.1\lib\python\SIMION"
+PATH = "C:\Program Files\SIMION-8.1\lib\python"
 
 
 assert os.path.exists(PATH), "SIMION python API not found. Check PATH in fastadjust.simion.py"
